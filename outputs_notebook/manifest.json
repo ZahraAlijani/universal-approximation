@@ -1,0 +1,10 @@
+{
+  "activation_type": "PaperLikeActivation",
+  "polynomial_count": 8,
+  "samples_per_interval": 128,
+  "tail_scale": 1.5,
+  "outputs": [
+    "activation_samples.csv",
+    "activation_profile.png"
+  ]
+}
